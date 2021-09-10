@@ -1,5 +1,5 @@
 # Water-Security-Hack
-27-28 November, 2020. I2N Virtual Hub
+15-16 October, 2021. I2N Virtual Hub
 
 New Futures Hackathon for Water Security will bring together multidisciplinary minds to explore the barriers around water use, pollution and disaster and generate solutions to build a sustainable world.
 
