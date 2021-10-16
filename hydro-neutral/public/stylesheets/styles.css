@@ -1,0 +1,44 @@
+/* styles go here */
+.splash {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+  flex-direction: column;
+}
+.splash h1 {
+  font-size: 70px;
+  color: white;
+  color: #4397f7;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px #333333 !important;
+}
+.splash .home {
+  flex-grow: 1;
+}
+.main-wrapper {
+  height: 100vh;  
+  background-color: gray;
+}
+
+.ironbark {
+  background-image: url("/images/ironbarkhill.com_.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.hunter {
+  background-image: url("/images/huntervalleypremiummeats.com.au_.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.background-water {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  z-index: -1;
+}
